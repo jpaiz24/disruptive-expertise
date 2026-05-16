@@ -10,6 +10,8 @@ header-position: center
 ---
 
 # Television and the Death of the Expert
+
+
 {% include images/figure-wrap.html image-path="images/kennedy-nixon-debate.jpg"
   image-position="right"
   image-width="46%"
